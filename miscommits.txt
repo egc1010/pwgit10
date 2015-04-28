@@ -1,0 +1,17 @@
+commit d5abe9aeef76946278fcc8e946f15fda0b0ac516
+Author: emmanuel guerrero <egc1010@gmail.com>
+Date:   Tue Apr 28 10:40:30 2015 -0600
+
+    Header fondo azul, letras blanca
+
+commit 93fe65b5d1de4c7a2d8b0bc191a1fd7ee792eb3b
+Author: emmanuel guerrero <egc1010@gmail.com>
+Date:   Tue Apr 28 10:35:44 2015 -0600
+
+    Header y estructura de secciones
+
+commit 8c354075272845042f709a6493bcd9c21c8dbcb9
+Author: emmanuel guerrero <egc1010@gmail.com>
+Date:   Tue Apr 28 10:31:31 2015 -0600
+
+    Primer Commit
